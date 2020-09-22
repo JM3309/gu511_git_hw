@@ -4,7 +4,7 @@ the primary function of this repo is to develop `git` skills over the course of 
 
 ## repository contents
 
-+ 'helloworld.py'
++ `helloworld.py`
 
     + run with `python helloworld.py`
 
